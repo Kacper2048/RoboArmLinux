@@ -6,7 +6,7 @@
  The main goal of that was creating simple and cheap multipurpose arm for use in many other projects. It use Qt control panel and open-access libraries from linux.
 
  Here is a link to get a model of arm: https://cults3d.com/en/3d-model/gadget/robo-arm-servo<br />
- Here is a kink to the presentation video: https://youtu.be/k4kKjJZca9Q
+ Here is a link to the presentation video: https://youtu.be/k4kKjJZca9Q
    
    
 ### Requires
