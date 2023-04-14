@@ -2,7 +2,7 @@
 
 ### Description
 
- Portfolio and educational project to gain many skills like 3d modeling, writing embedded software or basic of electronics. 
+ Portfolio and educational project.
  The main goal of that was creating simple and cheap multipurpose arm for use in many other projects. It use Qt control panel and open-access libraries from linux.
 
  Here is a link to get a model of arm: https://cults3d.com/en/3d-model/gadget/robo-arm-servo<br />
