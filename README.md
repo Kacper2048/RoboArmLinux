@@ -28,8 +28,9 @@
  (Pico-software) In order to save a time I took ready example hello_world from pico and I remodel everything what I needed.
  In order to compile the program you have to go to specified directory and use command `make -j4` and move ready *.uf2 file to rp pico.
 
- (Pico-hardware) Connect wires according to instruction `instruction.png`. By default 6 gpio pins are used to control the servos. 
- 
+ (Pico-hardware) By default 6 gpio pins are used to control the servos. I set range for pins from 10th to 15th(also included) to control.
+ number of pin refers to gpio numbering.
+
  
 ### Warnings
 
