@@ -8,9 +8,9 @@
 ### Links
 
 To get a model of arm: https://cults3d.com/en/3d-model/gadget/robo-arm-servo<br />
-To the presentation video: https://youtu.be/k4kKjJZca9Q
-To photo of control panel: https://www.mediafire.com/view/jurgdmiqmc6ower/panel.png/file
-To photo of ready set before test: https://www.mediafire.com/view/immzdm20rfb2fj6/IMG_20230414_143925.jpg/file
+To the presentation video: https://youtu.be/k4kKjJZca9Q<br />
+To photo of control panel: https://www.mediafire.com/view/jurgdmiqmc6ower/panel.png/file<br />
+To photo of ready set before test: https://www.mediafire.com/view/immzdm20rfb2fj6/IMG_20230414_143925.jpg/file<br />
    
    
 ### Requires
