@@ -3,7 +3,7 @@
 ### Description
 
  Portfolio and educational project.
- The main goal of that was creating simple and cheap multipurpose arm for use in many other projects. It use Qt control panel and open-access libraries from linux.
+ The main goal of that was creating simple and cheap multipurpose arm for use in many other projects. It features a control panel made in Qt. Project    utilises open-access Linux libraries.
 
 ### Links
 
